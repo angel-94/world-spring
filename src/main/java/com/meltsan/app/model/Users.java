@@ -5,7 +5,7 @@
 package com.meltsan.app.model;
 
 /**
- * Descripcón: 
+ * Descripcón:
  * @author meltsansolutions
  * @version 1.0
  * date: 10-08-16
